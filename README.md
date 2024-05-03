@@ -1,7 +1,7 @@
 # Try_die
 ## still alive
 Привет Это **жирный текст**
-Это *курсив* :explpoding_head:
+Это *курсив* :exploding_head:
 - перечисления
 - еще
 
