@@ -1,5 +1,8 @@
 ;iugh'o  
 kjv;sycbl.z/cns;l.
 
+:::tire
+Привет!
+:::
 .j,habc.kj  
-:fire:
+[:fire:](/README.md)
