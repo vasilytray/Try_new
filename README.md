@@ -1,3 +1,5 @@
+![header](/img/шапка.jpg)
+
 # Try_die
 ## still alive
 Привет Это **жирный текст**
