@@ -6,6 +6,8 @@
 - еще
 
 ```
-сщву
+if a>0{
+    print "good"
+}
 ```
 :heart:
