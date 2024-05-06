@@ -23,3 +23,4 @@ $ git config --global user.email username@yandex.ru
 $ cat ~/.gitconfig - посмотреть кто в настройках репозитория
 rm -rf .git - разгитить папку
  git status - сатус репозитория
+ git add --all - подготовить к сохранению все файлы в репозитории.
