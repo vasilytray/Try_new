@@ -4,7 +4,7 @@
 ## still alive
 Привет Это **жирный текст**
 Это *курсив* :exploding_head:
-- перечисления
+- пере/nчисления
 - [еще](/test.md)
 - [my god!](/first_project/very-important-files/god.md)
 
