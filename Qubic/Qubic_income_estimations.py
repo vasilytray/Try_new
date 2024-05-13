@@ -1,6 +1,6 @@
 #EPOCH 101 hashrates updated! See link above.
 #enter you total hashrate of your rigs here (in it/s)
-myHashrate = 100
+myHashrate = 118
 
 
 
